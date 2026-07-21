@@ -112,4 +112,8 @@ He participado en el desarrollo y personalización de numerosos sitios web para 
 
 # Objetivo Profesional
 
+<<<<<<< HEAD
 Continuar desarrollando soluciones digitales innovadoras que ayuden a empresas y emprendedores a fortalecer su presencia en Internet mediante sitios web rápidos, modernos, seguros y optimizados para generar resultados.
+=======
+Continuar desarrollando soluciones digitales innovadoras que ayuden a empresas y emprendedores a fortalecer su presencia en Internet mediante sitios web rápidos, modernos, seguros y optimizados para generar resultados.
+>>>>>>> 0be48610682a34ce0dea1eeca57e55ad42a728d0
